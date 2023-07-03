@@ -1,7 +1,7 @@
 # Kurdish-wordlistKurdish Wordlist
 Welcome to the Kurdish Wordlist repository! This repository is a continuous work in progress dedicated to the collection, categorization, and filtering of Kurdish words. It aims to provide developers with a comprehensive resource of Kurdish language data that they can utilize in their projects.
 
-About the Wordlist
+#About the Wordlist
 The Kurdish Wordlist is an ongoing project where I am actively collecting and curating a diverse range of Kurdish words. The wordlist includes words from various Kurdish dialects and covers different parts of speech, including nouns, verbs, adjectives, adverbs, and more. The primary objective is to create a valuable linguistic resource for developers and researchers interested in the Kurdish language.
 
 Contributions
