@@ -10,10 +10,6 @@ The Kurdish Wordlist is an ongoing project where I am actively collecting and cu
 
 Contributions to the Kurdish Wordlist are highly encouraged and appreciated. If you have additional Kurdish words or improvements to existing entries, please feel free to submit a pull request. By contributing, you help enrich the wordlist and make it more useful for the community.
 
-## Organization and Structure
-
-The wordlist is organized alphabetically and categorized by parts of speech. Each word entry includes the word itself, its part of speech, and any relevant additional information. The wordlist is provided in a plain text format for easy integration into different projects. Additionally, the wordlist will be periodically updated as new words are collected and verified.
-
 ## Usage
 
 The Kurdish Wordlist can be utilized in a variety of projects, including natural language processing (NLP), machine learning, language learning applications, and more. Developers can leverage the wordlist for tasks such as text analysis, language generation, spell checking, and vocabulary enrichment. Please refer to the license section below for the terms of use.
@@ -26,12 +22,17 @@ The Kurdish Wordlist is licensed under [INSERT LICENSE HERE]. Please review the 
 
 While efforts have been made to ensure the accuracy and correctness of the wordlist, please note that linguistic variations and dialectal differences may exist. The wordlist is intended to serve as a general resource and should be used with caution, considering the context and specific linguistic requirements.
 
-## Acknowledgments
 
-I would like to express my gratitude to the contributors who have helped in expanding and improving the Kurdish Wordlist. Your efforts are invaluable and greatly appreciated.
+## Game: Wishasaz
+
+I have also created a game called Wishasaz using the Kurdish Wordlist. Wishasaz is a word-based game where players have to guess and arrange letters to form valid Kurdish words. It's a fun and educational game that can help improve vocabulary and language skills.
+
+You can play the game [here](https://kanabi.me/wishasaz/play.html).
+
+Feel free to check it out and enjoy playing with the words from the Kurdish Wordlist!
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding the Kurdish Wordlist, please feel free to reach out to me [via email](mailto:your@email.com).
+If you have any questions, suggestions, or feedback regarding the Kurdish Wordlist, please feel free to reach out to me [via email](mkanabi@protonmail.com).
 
 Thank you for your interest in the Kurdish Wordlist project!
